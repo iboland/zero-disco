@@ -1,0 +1,3 @@
+ENV NAME World
+
+CMD ["echo", "THE DISCO HAS STARTED!"]
